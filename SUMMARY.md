@@ -6,5 +6,5 @@
     * [Kubernetes](container/kubernetes.md)
     * [Helm](container/helm.md)
 * [OpenStack](openstack/README.md)
-    * [贡献](openstack/contribution.md)
+    * [参与社区](openstack/community.md)
 
