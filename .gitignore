@@ -7,3 +7,8 @@ _book/
 .DS_Store
 node_modules/
 *.pyc
+.ash_history
+.gitbook/
+.node_repl_history
+.npm/
+nohup.out
