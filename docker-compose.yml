@@ -1,11 +1,11 @@
 version: "3" 
 services:
-    gitbook:
-        image: zchkun/gitbook
-        privileged: true
-        tty: true
-        ports:
-            - 4000:4000
-        volumes:
-            - ./:/root
-        command: gitbook serve
+  gitbook:
+    image: zchkun/gitbook
+    tty: true
+    ports:
+      - 4000:4000
+      - 35729:35729
+    volumes:
+      - ./:/root
+    restart: unless-stopped
