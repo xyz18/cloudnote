@@ -66,3 +66,9 @@ services:
 ```
 
 执行 `docker-compose up -d` 启动容器
+
+### 启动多个GitBook
+
+```bash
+gitbook serve --lrport 35288 --port 4001
+```

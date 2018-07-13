@@ -10,8 +10,8 @@
 ```yaml
 version: "3" 
 services:
-  python3:
-    container_name: nginx
+  nginx:
+    # container_name: nginx
     image: nginx
     tty: true
     ports:
