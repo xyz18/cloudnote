@@ -66,6 +66,13 @@ $ git checkout -b bug/123456789
 
 可以通过 `git log` 查看提交信息
 
+#### 新功能说明
+
+```
+pip install reno
+tox -e venv -- reno new vanilla-2.7.5-support
+```
+
 #### 提交代码到社区
 
 ```bash
