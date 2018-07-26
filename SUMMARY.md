@@ -9,6 +9,7 @@
 * [Python3](python3/README.md)
     * [环境安装](python3/install.md)
     * [内置类型](python3/built-in-type.md)
+    * [函数](python3/function.md)
     * [制作安装包](python3/package.md)
     * [tox](python3/tox.md)
     * [文件系统](python3/file-system.md)
