@@ -80,3 +80,9 @@ $ git review
 ```
 
 在 [Gerrit Code Review](https://review.openstack.org) 上查看自己的修改
+
+#### 社区交流
+
+邮件：http://lists.openstack.org/pipermail/openstack-dev/
+会议：http://eavesdrop.openstack.org/
+贡献统计：http://stackalytics.com/
